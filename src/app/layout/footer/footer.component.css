@@ -7,3 +7,22 @@
     color: white;
     text-align: center;
   }
+  /* link que ainda não foi visitado */
+a:link {
+  color:white;
+}
+
+/* link que foi visitado */
+a:visited {
+   color:white;
+}
+
+/* mouse over */
+a:hover {
+   color: white;
+}
+
+/* link selecionado */
+a:active {
+   color:white;
+}
